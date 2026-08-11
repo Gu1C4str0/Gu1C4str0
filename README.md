@@ -2,7 +2,7 @@
 
 # Guilherme de Castro
 
-### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 | Power BI | SQL | Python
+### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 |
 
 *Transformando problemas técnicos em soluções — com foco no usuário e na eficiência do negócio.*
 
