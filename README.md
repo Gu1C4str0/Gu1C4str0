@@ -56,24 +56,6 @@ Meu objetivo profissional é atuar na área de Tecnologia, especialmente em **Su
 
 ---
 
-## 🚀 Projetos
-
-### 🔧 Automação e suporte
-
-Projetos voltados para automação de tarefas, diagnóstico de problemas e melhoria de processos de suporte.
-
-**Tecnologias:** Python, PowerShell, Windows
-
----
-
-### 📊 Power BI
-
-Projetos de análise e visualização de dados utilizando Power BI.
-
-**Tecnologias:** Power BI, SQL
-
----
-
 ### 🗄️ Banco de dados
 
 Projetos práticos envolvendo consultas, relacionamentos e manipulação de dados.
