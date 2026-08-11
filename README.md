@@ -81,7 +81,7 @@ Profissional de TI com **experiência prática em ambiente corporativo**, atuand
 ## 🎓 Formação & Certificações
 
 - 🎓 **Tecnologia da Informação — UNIVESP** *(graduação em andamento)*
-- 📜 *Adicione aqui certificações e cursos concluídos (ex.: Microsoft, Google, Alura, DIO, Cisco...)*
+- 📜 *O curso completo de Banco de Dados e SQL, sem mistérios! (Udemy)*
 
 ---
 
