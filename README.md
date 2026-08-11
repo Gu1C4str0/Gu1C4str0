@@ -1,97 +1,119 @@
-# Guilherme Castro
+<div align="center">
 
-### IT Support | Infrastructure | Microsoft 365 | Power BI | SQL | Python
+# 👋 Olá, eu sou o Guilherme Castro
 
-Profissional em transição de carreira para Tecnologia da Informação, com experiência prática em suporte técnico, atendimento de usuários, sistemas corporativos e resolução de problemas de infraestrutura.
+### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 | Power BI | SQL | Python
 
-Atualmente graduando em Tecnologia da Informação pela UNIVESP e atuando com suporte técnico em ambiente corporativo.
+*Transformando problemas técnicos em soluções — com foco no usuário e na eficiência do negócio.*
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-castro-ti/)
+[![Email](https://img.shields.io/badge/Email-guilherme87castro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme87castro@gmail.com)
+[![Localização](https://img.shields.io/badge/📍_Marília-São_Paulo,_Brasil-2ea44f?style=for-the-badge)](https://www.google.com/maps/place/Marília)
 
-## 👨‍💻 Sobre mim
-
-- 🎓 Graduando em Tecnologia da Informação — UNIVESP
-- 💻 Atuação em suporte técnico e sistemas corporativos
-- 🖥️ Suporte a hardware, software, Windows, redes e periféricos
-- ☁️ Microsoft 365, Teams, Outlook e OneDrive
-- 📊 Power BI
-- 🗄️ SQL e bancos de dados
-- 🔧 Investigação e resolução de incidentes
-- 🔗 Integração entre sistemas e plataformas
-- 📍 Marília, São Paulo, Brasil
-
-Meu objetivo profissional é atuar na área de Tecnologia, especialmente em **Suporte Técnico, Infraestrutura, Service Desk e Sistemas**, evoluindo progressivamente para posições de maior responsabilidade técnica.
+</div>
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## 🚀 Resumo Profissional
 
-### Suporte & Infraestrutura
+Profissional de TI com **experiência prática em ambiente corporativo**, atuando em suporte técnico N1/N2, atendimento a usuários e resolução de incidentes de infraestrutura. Graduando em **Tecnologia da Informação pela UNIVESP**, combino a vivência do dia a dia de Service Desk com estudos contínuos em programação, banco de dados e cloud.
 
+**O que eu entrego:**
+
+- 🔧 **Resolução de incidentes** de hardware, software, redes e periféricos — com diagnóstico estruturado e documentação
+- 👥 **Atendimento ao usuário** com comunicação clara, empatia e foco na experiência de quem precisa de suporte
+- ☁️ **Administração de Microsoft 365** — Teams, Outlook, OneDrive e gestão de contas
+- 📊 **Análise de dados com Power BI e SQL** — transformando dados operacionais em insights para decisões
+- 🔗 **Integração entre sistemas** e automação de rotinas com Python
+
+🎯 **Objetivo:** crescer em **Suporte Técnico, Infraestrutura, Service Desk e Sistemas**, assumindo progressivamente desafios de maior responsabilidade técnica.
+
+---
+
+## 🛠️ Stack Técnica
+
+<div align="center">
+
+### 🖥️ Suporte & Infraestrutura
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes_TCP%2FIP-005571?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Desenvolvimento
+### 📊 Dados & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
+### 👨‍💻 Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Banco de dados
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### Dados & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Ferramentas
-
+### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-### 🗄️ Banco de dados
-
-Projetos práticos envolvendo consultas, relacionamentos e manipulação de dados.
-
-**Tecnologias:** SQL, MySQL, MariaDB
+</div>
 
 ---
 
-### 🌐 Desenvolvimento Web
+## 📂 Projetos em Destaque
 
-Projetos acadêmicos e pessoais desenvolvidos durante minha formação em Tecnologia da Informação.
+> 💡 *Dica: fixe (pin) seus melhores repositórios no perfil para que apareçam logo abaixo deste README.*
 
-**Tecnologias:** HTML, CSS, JavaScript, Python, React
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| 🗄️ **[Nome do projeto SQL](#)** | Modelagem de banco de dados com consultas, relacionamentos e manipulação de dados de um cenário real | `SQL` `MySQL` `MariaDB` |
+| 📊 **[Dashboard Power BI](#)** | Dashboard interativo com indicadores e análise de dados | `Power BI` `SQL` |
+| 🌐 **[Projeto Web](#)** | Aplicação web desenvolvida durante a graduação | `HTML` `CSS` `JavaScript` `React` |
+| 🐍 **[Automação Python](#)** | Script de automação de rotinas e integração entre sistemas | `Python` |
 
----
-
-## 🎓 Formação
-
-**Tecnologia da Informação — UNIVESP**
-
-Graduação em andamento.
-
----
-
-## 📫 Contato
-
-📧 **Email:** guilherme87castro@gmail.com
-
-💼 **LinkedIn:**  
-[linkedin.com/in/guilherme-castro-ti](https://www.linkedin.com/in/guilherme-castro-ti/)
+*(Substitua os links `#` pelos repositórios reais — projetos com README próprio, prints e instruções de uso valem ouro para recrutadores!)*
 
 ---
 
-## 📈 Atualmente
+## 🎓 Formação & Certificações
 
-🔹 Evoluindo tecnicamente em infraestrutura e suporte  
-🔹 Desenvolvendo projetos para meu portfólio  
-🔹 Estudando programação, banco de dados e cloud  
-🔹 Buscando oportunidades na área de Tecnologia da Informação
+- 🎓 **Tecnologia da Informação — UNIVESP** *(graduação em andamento)*
+- 📜 *Adicione aqui certificações e cursos concluídos (ex.: Microsoft, Google, Alura, DIO, Cisco...)*
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
+
+</div>
+
+---
+
+## 📈 No momento
+
+- 🔹 Evoluindo tecnicamente em **infraestrutura e suporte**
+- 🔹 Desenvolvendo **projetos práticos** para o portfólio
+- 🔹 Estudando **programação, banco de dados e cloud**
+- 🔹 **Aberto a oportunidades** em Tecnologia da Informação 🚀
+
+---
+
+<div align="center">
+
+### 💬 Vamos conversar?
+
+Estou sempre aberto a novas conexões, trocas de conhecimento e **oportunidades na área de TI**.
+
+[![LinkedIn](https://img.shields.io/badge/Me_chame_no-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-castro-ti/)
+[![Email](https://img.shields.io/badge/Envie_um-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme87castro@gmail.com)
+
+![Visitantes](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue&style=for-the-badge&label=Visualizações+do+perfil)
+
+</div>
