@@ -1,6 +1,6 @@
 <div align="center">
 
-# Guilherme Castro
+# Guilherme de Castro
 
 ### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 | Power BI | SQL | Python
 
