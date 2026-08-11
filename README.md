@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Guilherme Castro
+# Guilherme Castro
 
 ### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 | Power BI | SQL | Python
 
@@ -85,17 +85,6 @@ Profissional de TI com **experiência prática em ambiente corporativo**, atuand
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
-
-</div>
-
----
-
 ## 📈 No momento
 
 - 🔹 Evoluindo tecnicamente em **infraestrutura e suporte**
@@ -113,7 +102,5 @@ Estou sempre aberto a novas conexões, trocas de conhecimento e **oportunidades 
 
 [![LinkedIn](https://img.shields.io/badge/Me_chame_no-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-castro-ti/)
 [![Email](https://img.shields.io/badge/Envie_um-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme87castro@gmail.com)
-
-![Visitantes](https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&color=blue&style=for-the-badge&label=Visualizações+do+perfil)
 
 </div>
