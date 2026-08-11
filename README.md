@@ -65,14 +65,11 @@ Profissional de TI com **experiência prática em ambiente corporativo**, atuand
 
 ## 📂 Projeto em Destaque
 
-> 💡 *Dica: fixe (pin) seus melhores repositórios no perfil para que apareçam logo abaixo deste README.*
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🌐 **[Projeto Web](https://projeto-integrador-ii-gamma.vercel.app/)** | Este trabalho teve como objetivo desenvolver uma aplicação web para otimizar a gestão de rotas de motoristas e promover transparência no transporte de alunos da instituição APA Espaço Potencial, que atende crianças com Transtorno do Espectro Autista (TEA). A solução foi construída utilizando as tecnologias HTML, CSS, JavaScript, Bootstrap, Python, Flask e PostgreSQL, e integra a API do Google Maps para visualização georreferenciada das rotas. Foram implementados módulos de cadastro de motoristas, veículos, alunos e rotas, além de um portal para pais e um módulo inicial de Ponto Digital. A aplicação foi validada como um MVP (Mínimo Produto Viável) e atendeu às expectativas da instituição, demonstrando viabilidade técnica e potencial de impacto social. | `HTML` `CSS` `JavaScript` `React` |
+| 🌐 **[Projeto Web](https://projeto-integrador-ii-gamma.vercel.app/)** | Este trabalho teve como objetivo desenvolver uma aplicação web para otimizar a gestão de rotas de motoristas e promover transparência no transporte de alunos da instituição APA Espaço Potencial, que atende crianças com Transtorno do Espectro Autista (TEA). A solução foi construída utilizando as tecnologias HTML, CSS, JavaScript, Bootstrap, Python, Flask e PostgreSQL, e integra a API do Google Maps para visualização georreferenciada das rotas. Foram implementados módulos de cadastro de motoristas, veículos, alunos e rotas, além de um portal para pais e um módulo inicial de Ponto Digital. A aplicação foi validada como um MVP (Mínimo Produto Viável) e atendeu às expectativas da instituição, demonstrando viabilidade técnica e potencial de impacto social. | `HTML` `CSS` `JavaScript` `React` `Pythjon` `Bootstrap` `Flash` `PostgreSQL`|
 
-
-*(Substitua os links `#` pelos repositórios reais — projetos com README próprio, prints e instruções de uso valem ouro para recrutadores!)*
 
 ---
 
