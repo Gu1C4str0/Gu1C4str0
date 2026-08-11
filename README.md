@@ -69,10 +69,8 @@ Profissional de TI com **experiência prática em ambiente corporativo**, atuand
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| 🗄️ **[Nome do projeto SQL](#)** | Modelagem de banco de dados com consultas, relacionamentos e manipulação de dados de um cenário real | `SQL` `MySQL` `MariaDB` |
-| 📊 **[Dashboard Power BI](#)** | Dashboard interativo com indicadores e análise de dados | `Power BI` `SQL` |
-| 🌐 **[Projeto Web](#)** | Aplicação web desenvolvida durante a graduação | `HTML` `CSS` `JavaScript` `React` |
-| 🐍 **[Automação Python](#)** | Script de automação de rotinas e integração entre sistemas | `Python` |
+| 🌐 **[Projeto Web](https://projeto-integrador-ii-gamma.vercel.app/)** | Aplicação web desenvolvida durante a graduação | `HTML` `CSS` `JavaScript` `React` |
+
 
 *(Substitua os links `#` pelos repositórios reais — projetos com README próprio, prints e instruções de uso valem ouro para recrutadores!)*
 
@@ -82,6 +80,7 @@ Profissional de TI com **experiência prática em ambiente corporativo**, atuand
 
 - 🎓 **Tecnologia da Informação — UNIVESP** *(graduação em andamento)*
 - 📜 *O curso completo de Banco de Dados e SQL, sem mistérios! (Udemy)*
+- 📜 *Explorar a administração do Microsoft 365(Microsoft)*
 
 ---
 
