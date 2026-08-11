@@ -13,4 +13,4 @@ Em breve incluirei aqui os projetos que estiver desenvolvendo.
 
 ## Contato
 - Email: guilherme87castro@gmail.com
-- LinkedIn: https://www.linkedin.com/in/guilherme-castro-aa977725a
+- LinkedIn: https://www.linkedin.com/in/guilherme-castro-ti/
