@@ -2,7 +2,7 @@
 
 # Guilherme de Castro
 
-### 💻 Suporte Técnico de TI | Infraestrutura | Microsoft 365 |
+### 💻 Analista deSuporte Técnico de TI N1/N2 | Infraestrutura | Microsoft 365 |
 
 *Transformando problemas técnicos em soluções — com foco no usuário e na eficiência do negócio.*
 
@@ -16,7 +16,12 @@
 
 ## 🚀 Resumo Profissional
 
-Profissional de TI com **experiência prática em ambiente corporativo**, atuando em suporte técnico N1/N2, atendimento a usuários e resolução de incidentes de infraestrutura. Graduando em **Tecnologia da Informação pela UNIVESP**, combino a vivência do dia a dia de Service Desk com estudos contínuos em programação, banco de dados e cloud.
+Analista de Suporte de TI N1/N2 e ponto único de contato de TI de uma operação de 140 usuários. Atuo com Microsoft 365
+(administração de contas, permissões e licenças), atendimento multicanal, suporte remoto e presencial a hardware, software e
+redes TCP/IP, e implantação de sistemas. A documentação e os treinamentos que criei reduziram pela metade os chamados
+repetidos. Antes da TI, foram oito anos na Nestlé em ambiente industrial de alta exigência, com TPM, Lean, auditorias e
+indicadores — base da disciplina com processo, documentação e SLA que aplico hoje. Bacharelando em Tecnologia da
+Informação pela UNIVESP, com conclusão em 2026.
 
 **O que eu entrego:**
 
